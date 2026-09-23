@@ -11,21 +11,25 @@ Currently at **PayPay** — Japan's leading fintech and mobile payments platform
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ishikagoel5/)
-[![CodeChef](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg)](https://www.codechef.com/users/ishika_goel)
-[![Codeforces](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg)](https://codeforces.com/profile/_musk20)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/_musk20/)
+<p>
+<a href="https://www.linkedin.com/in/ishikagoel5/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.codechef.com/users/ishika_goel"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="32" height="32" alt="CodeChef" /></a>&nbsp;
+<a href="https://codeforces.com/profile/_musk20"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" width="32" height="32" alt="Codeforces" /></a>&nbsp;
+<a href="https://leetcode.com/_musk20/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" alt="LeetCode" /></a>
+</p>
 
 ### Languages & Tools:
 
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) &nbsp;
-![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) &nbsp;
-![Scala](https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg) &nbsp;
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) &nbsp;
-![Spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) &nbsp;
-![Kafka](https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg) &nbsp;
-![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg) &nbsp;
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) &nbsp;
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) &nbsp;
-![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg) &nbsp;
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="40" height="40" alt="Scala" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+</p>
